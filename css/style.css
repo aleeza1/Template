@@ -1,0 +1,14 @@
+.user-nav ul {
+    list-style-type: none;
+}
+
+.user-nav ul li {
+    float: left;
+}
+
+.user-nav ul li a {
+    display: inline;
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+}
