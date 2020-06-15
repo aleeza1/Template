@@ -3,55 +3,13 @@
     width: 100%;
 }
 
-.navbar-wrapper {
-    height: auto;
+.nav {
+    height: 80px;
     width: 100%;
-}
-
-.topnav {
-    height: 30px;
-    width: 100%;
-    background-color: goldenrod;
-}
-
-.nav-brandline {
-    height: 25px;
-    width: auto;
-    color: white;
-    font-family: Pooper;
-    padding: 5px;
-    float: left;
-}
-
-.user-nav {
-    height: 25px;
-    width: auto;
-    float: right;
-    padding: 5px 10px;
-    color: white;
-}
-
-.user-nav {
-    height: 25px;
 }
 
 .navbar {
-    padding: 0px 10px !important;
-}
-
-.navbar-custom {
+    height: 80px;
+    width: 100%;
     background-color: black;
-}
-
-.nav-item a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    text-decoration: none;
-}
-
-.nav-item a:hover {
-    background-color: gold;
-    color: black;
 }
