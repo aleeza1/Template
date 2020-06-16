@@ -1,15 +1,12 @@
-.main-wrapper {
-    height: auto;
-    width: 100%;
-}
-
-.nav {
-    height: 80px;
-    width: 100%;
-}
-
-.navbar {
-    height: 80px;
-    width: 100%;
+nav {
     background-color: black;
+    color: white;
+    height: 80px;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    padding: 25px;
+    justify-content: space-between;
 }
